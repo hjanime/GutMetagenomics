@@ -29,3 +29,5 @@ ggsave(filename = "Age_vs_BMI_coloredBy_IBD_shape_Gender.pdf", width = 7 , heigh
 
 qplot( Age, BMI, data = CohortStats , colour = IBD ,shape= Country, main = "Age Vs BMI plot\ncolored by IBD status")
 ggsave(filename = "Age_vs_BMI_coloredBy_IBD_shape_Country.pdf", width = 7 , height = 7)
+
+bmiRange <- range(CohortStats$BMI)
