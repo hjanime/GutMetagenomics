@@ -219,9 +219,9 @@ while (my $line = <IN> ){
 }
     #gMatch
     if($reff[5] eq '' || !exists($fld->{genus}->{name})){
-        print OUT "NA\t";
+        print OUT "NA\n";
     } elsif ($fld->{genus}->{name} eq $reff[5]) {
-        print OUT "1\t";
+        print OUT "1\n";
     } else {
         print OUT "0\n";
     }

@@ -52,7 +52,7 @@ while (my $line = <IN> ){
     ##my $refrow = `zgrep "^$ref\\sk" stapDB/gg_13_5_taxonomy.txt.gz`;
 #    my @refrows = grep { /${ref}\sk/ } @ref; 
     my @reff = split(' ', $rh->{$ref});
-    chomp ;
+  
     print "hash lookup\t".$rh->{$ref}."\n";
     
     for my $rfld (@reff){
