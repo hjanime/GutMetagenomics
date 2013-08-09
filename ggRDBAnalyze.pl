@@ -19,6 +19,13 @@ my $tot = 0;
 open REF, 'zcat rdptest/gg_13_5_taxonomy.txt.gz | ' or die "error opening the taxonomic reference file";   
 
 my @ref = <REF>;
+my $rh = {};
+for my $e (@ref) {
+    chomp $e;
+    my $k = $e;
+    $k =~ s/^(\d+).*$/$1/;
+    $rh->{$k} = $e;
+}
 
 my $oflds = "ref\tstart\tstop\tdomain\tdScore\trDomain\tdMatch\tphylum\tpScore\trPhylum\tpMatch\tclass\tcScore\trClass\tcMatch\torder\toScore\trOrder\toMatch\tfamily\tfScore\trFamily\tfMatch\tgenus\tgScore\trGenus\tgMatch\n";
 
@@ -43,10 +50,10 @@ while (my $line = <IN> ){
     }
     print "pos1 $pos1\tpos2 $pos2\n";
     ##my $refrow = `zgrep "^$ref\\sk" stapDB/gg_13_5_taxonomy.txt.gz`;
-    my @refrows = grep { /${ref}\sk/ } @ref; 
-    my @reff = split(' ', $refrows[0]);
-    chomp $refrows[0];
-    print "grep match\t".$refrows[0]."\n";
+#    my @refrows = grep { /${ref}\sk/ } @ref; 
+    my @reff = split(' ', $rh->{$ref});
+  
+    print "hash lookup\t".$rh->{$ref}."\n";
     
     for my $rfld (@reff){
         $rfld =~ s/;//;
