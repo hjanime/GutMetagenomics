@@ -1,0 +1,100 @@
+1;reference=663872;position=937..1011		Bacteria	domain	1.0	Firmicutes	phylum	1.0	Bacilli	class	1.0	Bacillales	order	0.97	Staphylococcaceae	family	0.97	Staphylococcus	genus	0.97
+2;reference=446864;position=complement(513..587)	-	Bacteria	domain	1.0	Firmicutes	phylum	1.0	Bacilli	class	1.0	Bacillales	order	1.0	Staphylococcaceae	family	1.0	Staphylococcus	genus	1.0
+3;reference=109073;position=complement(1022..1096)	-	Bacteria	domain	1.0	"Actinobacteria"	phylum	0.92	Actinobacteria	class	0.92	Actinomycetales	order	0.92	Thermomonosporaceae	family	0.73	Actinomadura	genus	0.73
+4;reference=2132243;position=complement(665..739)	-	Bacteria	domain	1.0	"Deinococcus-Thermus"	phylum	0.24	Deinococci	class	0.24	Thermales	order	0.24	Thermaceae	family	0.24	Vulcanithermus	genus	0.24
+5;reference=339854;position=complement(340..414)	-	Bacteria	domain	1.0	"Proteobacteria"	phylum	1.0	Gammaproteobacteria	class	0.99	Oceanospirillales	order	0.67	Halomonadaceae	family	0.5	Zymobacter	genus	0.25
+6;reference=848723;position=complement(898..972)	-	Bacteria	domain	1.0	"Bacteroidetes"	phylum	0.99	"Bacteroidia"	class	0.69	"Bacteroidales"	order	0.69	"Prevotellaceae"	family	0.55	Prevotella	genus	0.55
+7;reference=159674;position=complement(1057..1131)	-	Bacteria	domain	1.0	"Bacteroidetes"	phylum	0.5	"Sphingobacteria"	class	0.42	"Sphingobacteriales"	order	0.42	Chitinophagaceae	family	0.3	Balneola	genus	0.29
+8;reference=4384348;position=490..564		Bacteria	domain	1.0	"Actinobacteria"	phylum	1.0	Actinobacteria	class	1.0	Actinomycetales	order	1.0	Pseudonocardiaceae	family	0.93	Streptoalloteichus	genus	0.64
+9;reference=427674;position=1124..1198		Bacteria	domain	1.0	"Proteobacteria"	phylum	1.0	Betaproteobacteria	class	0.97	Burkholderiales	order	0.97	Comamonadaceae	family	0.9	Acidovorax	genus	0.85
+10;reference=142193;position=1249..1323		Bacteria	domain	0.97	"Chloroflexi"	phylum	0.35	Anaerolineae	class	0.27	Anaerolineales	order	0.27	Anaerolineaceae	family	0.27	Bellilinea	genus	0.21
+11;reference=935725;position=486..560		Bacteria	domain	1.0	Firmicutes	phylum	0.99	Bacilli	class	0.99	Bacillales	order	0.98	Staphylococcaceae	family	0.96	Staphylococcus	genus	0.96
+12;reference=388266;position=1130..1204		Bacteria	domain	1.0	"Bacteroidetes"	phylum	0.98	Flavobacteria	class	0.98	"Flavobacteriales"	order	0.98	Flavobacteriaceae	family	0.98	Chryseobacterium	genus	0.71
+13;reference=846895;position=998..1072		Bacteria	domain	1.0	"Bacteroidetes"	phylum	0.97	"Bacteroidia"	class	0.96	"Bacteroidales"	order	0.96	"Prevotellaceae"	family	0.93	Prevotella	genus	0.93
+14;reference=4430545;position=complement(1133..1207)	-	Bacteria	domain	1.0	"Fusobacteria"	phylum	0.91	"Fusobacteria"	class	0.91	"Fusobacteriales"	order	0.91	"Fusobacteriaceae"	family	0.9	Fusobacterium	genus	0.9
+15;reference=521771;position=579..653		Bacteria	domain	0.99	"Bacteroidetes"	phylum	0.67	"Bacteroidia"	class	0.67	"Bacteroidales"	order	0.67	"Prevotellaceae"	family	0.66	Prevotella	genus	0.55
+16;reference=959708;position=152..226		Bacteria	domain	1.0	"Actinobacteria"	phylum	1.0	Actinobacteria	class	1.0	Actinomycetales	order	1.0	Micrococcaceae	family	1.0	Rothia	genus	1.0
+17;reference=4451521;position=1378..1452		Bacteria	domain	1.0	"Proteobacteria"	phylum	1.0	Gammaproteobacteria	class	1.0	"Enterobacteriales"	order	0.99	Enterobacteriaceae	family	0.99	Yersinia	genus	0.63
+18;reference=4431196;position=1123..1197		Bacteria	domain	1.0	"Bacteroidetes"	phylum	0.48	"Sphingobacteria"	class	0.48	"Sphingobacteriales"	order	0.48	"Saprospiraceae"	family	0.35	Lewinella	genus	0.29
+19;reference=729856;position=1081..1155		Bacteria	domain	1.0	"Proteobacteria"	phylum	0.98	Betaproteobacteria	class	0.97	Burkholderiales	order	0.97	Burkholderiaceae	family	0.97	Polynucleobacter	genus	0.87
+20;reference=338300;position=1230..1304		Bacteria	domain	1.0	"Bacteroidetes"	phylum	0.96	"Bacteroidia"	class	0.95	"Bacteroidales"	order	0.95	Bacteroidaceae	family	0.91	Bacteroides	genus	0.91
+21;reference=4320009;position=842..916		Bacteria	domain	1.0	"Bacteroidetes"	phylum	0.99	"Bacteroidia"	class	0.94	"Bacteroidales"	order	0.94	"Prevotellaceae"	family	0.76	Prevotella	genus	0.59
+22;reference=1011418;position=208..282		Bacteria	domain	1.0	"Proteobacteria"	phylum	0.91	Betaproteobacteria	class	0.78	Neisseriales	order	0.23	Neisseriaceae	family	0.23	Microvirgula	genus	0.07
+23;reference=4361147;position=529..603		Bacteria	domain	1.0	"Proteobacteria"	phylum	0.96	Alphaproteobacteria	class	0.93	Sphingomonadales	order	0.76	Sphingomonadaceae	family	0.75	Sphingomonas	genus	0.59
+24;reference=832213;position=393..467		Bacteria	domain	1.0	"Fusobacteria"	phylum	1.0	"Fusobacteria"	class	1.0	"Fusobacteriales"	order	1.0	"Fusobacteriaceae"	family	1.0	Cetobacterium	genus	0.89
+25;reference=4477441;position=complement(993..1067)	-	Archaea	domain	0.28	"Euryarchaeota"	phylum	0.24	Archaeoglobi	class	0.05	Archaeoglobales	order	0.05	Archaeoglobaceae	family	0.05	Ferroglobus	genus	0.05
+26;reference=444114;position=complement(485..559)	-	Bacteria	domain	1.0	"Actinobacteria"	phylum	1.0	Actinobacteria	class	1.0	Actinomycetales	order	1.0	Corynebacteriaceae	family	0.6	Corynebacterium	genus	0.6
+27;reference=808025;position=1000..1074		Bacteria	domain	1.0	Firmicutes	phylum	0.87	Clostridia	class	0.71	Thermoanaerobacterales	order	0.4	Thermoanaerobacteraceae	family	0.4	Moorella	genus	0.37
+28;reference=844765;position=complement(552..626)	-	Bacteria	domain	1.0	"Proteobacteria"	phylum	1.0	Gammaproteobacteria	class	1.0	Oceanospirillales	order	1.0	Halomonadaceae	family	1.0	Halomonas	genus	1.0
+29;reference=431510;position=1262..1336		Bacteria	domain	1.0	"Actinobacteria"	phylum	0.99	Actinobacteria	class	0.99	Actinomycetales	order	0.99	Nocardioidaceae	family	0.59	Nocardioides	genus	0.59
+30;reference=922346;position=complement(445..519)	-	Bacteria	domain	1.0	Firmicutes	phylum	1.0	Bacilli	class	0.98	Bacillales	order	0.97	Bacillales_Incertae Sedis XI	family	0.97	Gemella	genus	0.97
+31;reference=4301286;position=complement(741..815)	-	Bacteria	domain	1.0	"Proteobacteria"	phylum	1.0	Betaproteobacteria	class	0.94	Burkholderiales	order	0.94	Comamonadaceae	family	0.83	Acidovorax	genus	0.21
+32;reference=2686586;position=1059..1133		Bacteria	domain	1.0	"Bacteroidetes"	phylum	0.98	"Bacteroidia"	class	0.98	"Bacteroidales"	order	0.98	Bacteroidaceae	family	0.75	Bacteroides	genus	0.75
+33;reference=2140524;position=complement(542..616)	-	Bacteria	domain	0.99	"Proteobacteria"	phylum	0.65	Gammaproteobacteria	class	0.47	Gammaproteobacteria_incertae_sedis	order	0.1	Thioprofundum	family	0.08	Thioprofundum	genus	0.08
+34;reference=635930;position=complement(590..664)	-	Bacteria	domain	1.0	"Proteobacteria"	phylum	1.0	Betaproteobacteria	class	1.0	Burkholderiales	order	0.99	Burkholderiaceae	family	0.88	Ralstonia	genus	0.86
+35;reference=766162;position=1145..1219		Bacteria	domain	1.0	Firmicutes	phylum	0.82	Bacilli	class	0.26	Bacillales	order	0.23	Thermoactinomycetaceae 1	family	0.19	Shimazuella	genus	0.19
+36;reference=666473;position=complement(970..1044)	-	Bacteria	domain	1.0	Firmicutes	phylum	0.99	Bacilli	class	0.99	Bacillales	order	0.97	Bacillaceae 2	family	0.68	Sediminibacillus	genus	0.67
+37;reference=423594;position=166..240		Bacteria	domain	1.0	"Actinobacteria"	phylum	1.0	Actinobacteria	class	1.0	Actinomycetales	order	1.0	Corynebacteriaceae	family	0.79	Corynebacterium	genus	0.79
+38;reference=554748;position=986..1060		Bacteria	domain	1.0	"Proteobacteria"	phylum	0.99	Alphaproteobacteria	class	0.99	Rhizobiales	order	0.98	Phyllobacteriaceae	family	0.54	Phyllobacterium	genus	0.5
+39;reference=332274;position=886..960		Bacteria	domain	1.0	"Proteobacteria"	phylum	1.0	Betaproteobacteria	class	1.0	Burkholderiales	order	0.98	Burkholderiaceae	family	0.98	Cupriavidus	genus	0.61
+40;reference=641855;position=972..1046		Bacteria	domain	0.99	"Actinobacteria"	phylum	0.95	Actinobacteria	class	0.95	Actinomycetales	order	0.94	Actinomycetaceae	family	0.88	Actinomyces	genus	0.88
+41;reference=442414;position=complement(1150..1224)	-	Bacteria	domain	0.99	"Actinobacteria"	phylum	0.85	Actinobacteria	class	0.85	Actinomycetales	order	0.76	Pseudonocardiaceae	family	0.22	Sciscionella	genus	0.09
+42;reference=729883;position=complement(1268..1342)	-	Bacteria	domain	1.0	"Proteobacteria"	phylum	0.78	Gammaproteobacteria	class	0.63	Acidithiobacillales	order	0.49	Acidithiobacillaceae	family	0.49	Acidithiobacillus	genus	0.49
+43;reference=1014306;position=334..408		Bacteria	domain	1.0	Firmicutes	phylum	1.0	Bacilli	class	0.99	Bacillales	order	0.98	Staphylococcaceae	family	0.93	Staphylococcus	genus	0.93
+44;reference=794525;position=14..88		Bacteria	domain	1.0	Firmicutes	phylum	1.0	Bacilli	class	1.0	Bacillales	order	1.0	Staphylococcaceae	family	1.0	Staphylococcus	genus	1.0
+45;reference=4454815;position=complement(467..541)	-	Bacteria	domain	1.0	"Proteobacteria"	phylum	1.0	Betaproteobacteria	class	0.85	Burkholderiales	order	0.85	Oxalobacteraceae	family	0.58	Herbaspirillum	genus	0.55
+46;reference=4417260;position=669..743		Bacteria	domain	1.0	Firmicutes	phylum	0.98	Bacilli	class	0.98	Bacillales	order	0.98	Bacillaceae 1	family	0.55	Geobacillus	genus	0.55
+47;reference=224266;position=191..265		Bacteria	domain	1.0	Firmicutes	phylum	0.04	Bacilli	class	0.04	Bacillales	order	0.04	Pasteuriaceae	family	0.04	Pasteuria	genus	0.04
+48;reference=453349;position=244..318		Bacteria	domain	1.0	"Actinobacteria"	phylum	0.96	Actinobacteria	class	0.96	Actinomycetales	order	0.84	Propionibacteriaceae	family	0.36	Propionibacterium	genus	0.36
+49;reference=978637;position=complement(811..885)	-	Bacteria	domain	0.98	"Proteobacteria"	phylum	0.87	Gammaproteobacteria	class	0.64	"Enterobacteriales"	order	0.55	Enterobacteriaceae	family	0.55	Leminorella	genus	0.03
+50;reference=630673;position=complement(360..434)	-	Bacteria	domain	1.0	Firmicutes	phylum	1.0	Bacilli	class	1.0	Lactobacillales	order	1.0	Streptococcaceae	family	0.93	Streptococcus	genus	0.93
+51;reference=381121;position=162..236		Bacteria	domain	1.0	"Proteobacteria"	phylum	1.0	Betaproteobacteria	class	1.0	Burkholderiales	order	1.0	Comamonadaceae	family	1.0	Diaphorobacter	genus	0.75
+52;reference=583907;position=158..232		Bacteria	domain	1.0	"Proteobacteria"	phylum	1.0	Gammaproteobacteria	class	0.99	Alteromonadales	order	0.98	Colwelliaceae	family	0.97	Colwellia	genus	0.97
+53;reference=2633332;position=631..705		Bacteria	domain	1.0	"Proteobacteria"	phylum	0.99	Gammaproteobacteria	class	0.99	Oceanospirillales	order	0.93	Halomonadaceae	family	0.91	Halomonas	genus	0.59
+54;reference=572849;position=complement(64..138)	-	Bacteria	domain	0.99	"Proteobacteria"	phylum	0.62	Gammaproteobacteria	class	0.53	Methylococcales	order	0.17	Methylococcaceae	family	0.17	Methylococcus	genus	0.11
+55;reference=553843;position=59..133		Bacteria	domain	0.98	Firmicutes	phylum	0.33	Clostridia	class	0.31	Clostridiales	order	0.31	Peptococcaceae 1	family	0.19	Thermincola	genus	0.17
+56;reference=1142627;position=complement(378..452)	-	Bacteria	domain	1.0	"Actinobacteria"	phylum	1.0	Actinobacteria	class	1.0	Actinomycetales	order	1.0	Streptomycetaceae	family	0.86	Streptomyces	genus	0.86
+57;reference=3468515;position=complement(744..818)	-	Bacteria	domain	0.99	"Bacteroidetes"	phylum	0.53	"Sphingobacteria"	class	0.31	"Sphingobacteriales"	order	0.31	"Flammeovirgaceae"	family	0.21	Reichenbachiella	genus	0.2
+58;reference=553925;position=111..185		Bacteria	domain	1.0	"Proteobacteria"	phylum	0.76	Epsilonproteobacteria	class	0.22	Nautiliales	order	0.22	Nautiliaceae	family	0.22	Nitratifractor	genus	0.22
+59;reference=4402641;position=complement(649..723)	-	Bacteria	domain	1.0	"Proteobacteria"	phylum	0.99	Gammaproteobacteria	class	0.99	Oceanospirillales	order	0.99	Halomonadaceae	family	0.99	Halomonas	genus	0.99
+60;reference=966188;position=complement(574..648)	-	Bacteria	domain	0.97	Firmicutes	phylum	0.9	Bacilli	class	0.85	Lactobacillales	order	0.85	Streptococcaceae	family	0.85	Streptococcus	genus	0.85
+61;reference=343032;position=202..276		Bacteria	domain	0.96	"Proteobacteria"	phylum	0.28	Alphaproteobacteria	class	0.27	Rhodospirillales	order	0.27	Acetobacteraceae	family	0.27	Craurococcus	genus	0.26
+62;reference=1079228;position=797..871		Bacteria	domain	1.0	Firmicutes	phylum	1.0	Bacilli	class	1.0	Lactobacillales	order	0.94	Enterococcaceae	family	0.94	Vagococcus	genus	0.26
+63;reference=675941;position=504..578		Bacteria	domain	1.0	Firmicutes	phylum	0.98	Bacilli	class	0.98	Bacillales	order	0.98	Staphylococcaceae	family	0.97	Staphylococcus	genus	0.97
+64;reference=4384077;position=complement(1064..1138)	-	Bacteria	domain	1.0	"Bacteroidetes"	phylum	0.99	Flavobacteria	class	0.99	"Flavobacteriales"	order	0.99	Flavobacteriaceae	family	0.99	Joostella	genus	0.7
+65;reference=4480;position=complement(688..762)	-	Bacteria	domain	1.0	"Proteobacteria"	phylum	0.99	Alphaproteobacteria	class	0.93	Rhodospirillales	order	0.93	Acetobacteraceae	family	0.93	Acidiphilium	genus	0.26
+66;reference=345940;position=254..328		Bacteria	domain	1.0	Firmicutes	phylum	0.9	Clostridia	class	0.89	Thermoanaerobacterales	order	0.89	Thermodesulfobiaceae	family	0.89	Coprothermobacter	genus	0.89
+67;reference=877679;position=complement(120..194)	-	Bacteria	domain	0.96	Firmicutes	phylum	0.44	Clostridia	class	0.43	Clostridiales	order	0.41	Clostridiaceae 1	family	0.09	Anaerobacter	genus	0.09
+68;reference=4381480;position=511..585		Bacteria	domain	1.0	Firmicutes	phylum	0.94	Clostridia	class	0.94	Clostridiales	order	0.89	Peptostreptococcaceae	family	0.77	Filifactor	genus	0.77
+69;reference=295444;position=39..113		Bacteria	domain	0.98	Firmicutes	phylum	0.52	Clostridia	class	0.51	Clostridiales	order	0.5	Lachnospiraceae	family	0.35	Roseburia	genus	0.2
+70;reference=436108;position=916..990		Bacteria	domain	1.0	"Proteobacteria"	phylum	1.0	Betaproteobacteria	class	0.99	Burkholderiales	order	0.99	Comamonadaceae	family	0.99	Delftia	genus	0.68
+71;reference=536961;position=complement(1220..1294)	-	Bacteria	domain	1.0	"Proteobacteria"	phylum	1.0	Gammaproteobacteria	class	1.0	"Enterobacteriales"	order	1.0	Enterobacteriaceae	family	1.0	Citrobacter	genus	0.59
+72;reference=382115;position=235..309		Bacteria	domain	1.0	"Proteobacteria"	phylum	0.99	Alphaproteobacteria	class	0.88	Rickettsiales	order	0.68	Rickettsiaceae	family	0.68	Rickettsia	genus	0.68
+73;reference=937877;position=786..860		Bacteria	domain	1.0	Firmicutes	phylum	1.0	Bacilli	class	1.0	Bacillales	order	1.0	Staphylococcaceae	family	1.0	Staphylococcus	genus	1.0
+74;reference=1017695;position=complement(134..208)	-	Bacteria	domain	1.0	Firmicutes	phylum	1.0	Bacilli	class	1.0	Lactobacillales	order	1.0	Streptococcaceae	family	1.0	Streptococcus	genus	1.0
+75;reference=2134058;position=544..618		Bacteria	domain	0.94	"Proteobacteria"	phylum	0.37	Betaproteobacteria	class	0.2	Burkholderiales	order	0.16	Comamonadaceae	family	0.06	Caenimonas	genus	0.04
+76;reference=960523;position=complement(1229..1303)	-	Bacteria	domain	1.0	Firmicutes	phylum	0.99	Bacilli	class	0.99	Lactobacillales	order	0.98	Streptococcaceae	family	0.98	Streptococcus	genus	0.98
+77;reference=122103;position=575..649		Bacteria	domain	1.0	Firmicutes	phylum	0.97	Clostridia	class	0.97	Clostridiales	order	0.97	Ruminococcaceae	family	0.97	Faecalibacterium	genus	0.97
+78;reference=309923;position=1266..1340		Bacteria	domain	1.0	"Bacteroidetes"	phylum	1.0	"Bacteroidia"	class	0.9	"Bacteroidales"	order	0.9	"Porphyromonadaceae"	family	0.61	Parabacteroides	genus	0.35
+79;reference=142464;position=complement(810..884)	-	Archaea	domain	1.0	"Euryarchaeota"	phylum	1.0	Halobacteria	class	1.0	Halobacteriales	order	1.0	Halobacteriaceae	family	1.0	Haloferax	genus	0.63
+80;reference=957373;position=complement(80..154)	-	Bacteria	domain	1.0	"Proteobacteria"	phylum	1.0	Gammaproteobacteria	class	1.0	Pasteurellales	order	0.99	Pasteurellaceae	family	0.99	Pasteurella	genus	0.6
+81;reference=430056;position=1295..1369		Bacteria	domain	1.0	Firmicutes	phylum	0.92	Bacilli	class	0.92	Bacillales	order	0.92	Staphylococcaceae	family	0.92	Staphylococcus	genus	0.92
+82;reference=3762590;position=446..520		Bacteria	domain	1.0	"Proteobacteria"	phylum	0.98	Gammaproteobacteria	class	0.95	Oceanospirillales	order	0.84	Halomonadaceae	family	0.83	Cobetia	genus	0.72
+83;reference=426543;position=1131..1205		Bacteria	domain	1.0	"Actinobacteria"	phylum	1.0	Actinobacteria	class	1.0	Actinomycetales	order	1.0	Nocardioidaceae	family	0.49	Nocardioides	genus	0.48
+84;reference=921178;position=complement(1280..1354)	-	Bacteria	domain	1.0	Firmicutes	phylum	1.0	Bacilli	class	1.0	Bacillales	order	1.0	Staphylococcaceae	family	1.0	Staphylococcus	genus	1.0
+85;reference=430203;position=1288..1362		Bacteria	domain	1.0	"Proteobacteria"	phylum	0.97	Gammaproteobacteria	class	0.9	Pseudomonadales	order	0.54	Pseudomonadaceae	family	0.52	Azotobacter	genus	0.35
+86;reference=1104836;position=683..757		Bacteria	domain	1.0	"Verrucomicrobia"	phylum	0.95	Spartobacteria	class	0.95	Spartobacteria_genera_incertae_sedis	order	0.95	Spartobacteria_genera_incertae_sedis	family	0.95	Spartobacteria_genera_incertae_sedis	genus	0.95
+87;reference=4433095;position=complement(791..865)	-	Bacteria	domain	1.0	"Bacteroidetes"	phylum	1.0	"Sphingobacteria"	class	1.0	"Sphingobacteriales"	order	1.0	Sphingobacteriaceae	family	1.0	Mucilaginibacter	genus	1.0
+88;reference=4462507;position=complement(1086..1160)	-	Bacteria	domain	1.0	"Acidobacteria"	phylum	0.91	Acidobacteria_Gp1	class	0.91	Granulicella	order	0.39	Granulicella	family	0.39	Granulicella	genus	0.39
+89;reference=4444141;position=complement(1118..1192)	-	Bacteria	domain	1.0	"Bacteroidetes"	phylum	0.87	"Sphingobacteria"	class	0.28	"Sphingobacteriales"	order	0.28	Cytophagaceae	family	0.28	Meniscus	genus	0.28
+90;reference=4328424;position=28..102		Bacteria	domain	1.0	Firmicutes	phylum	0.96	Clostridia	class	0.91	Clostridiales	order	0.91	Lachnospiraceae	family	0.87	Clostridium XlVa	genus	0.68
+91;reference=3546295;position=complement(536..610)	-	Bacteria	domain	0.96	"Deinococcus-Thermus"	phylum	0.04	Deinococci	class	0.04	Thermales	order	0.04	Thermaceae	family	0.04	Marinithermus	genus	0.04
+92;reference=3332704;position=complement(669..743)	-	Bacteria	domain	1.0	"Proteobacteria"	phylum	1.0	Gammaproteobacteria	class	1.0	Alteromonadales	order	0.9	Alteromonadaceae	family	0.9	Marinobacter	genus	0.89
+93;reference=2555881;position=595..669		Bacteria	domain	1.0	Firmicutes	phylum	0.99	Clostridia	class	0.75	Clostridiales	order	0.74	Clostridiaceae 1	family	0.67	Clostridium sensu stricto	genus	0.67
+94;reference=3013462;position=complement(847..921)	-	Bacteria	domain	1.0	"Chloroflexi"	phylum	0.66	Anaerolineae	class	0.5	Anaerolineales	order	0.5	Anaerolineaceae	family	0.5	Anaerolinea	genus	0.5
+95;reference=999633;position=1146..1220		Bacteria	domain	1.0	Firmicutes	phylum	0.98	Bacilli	class	0.98	Bacillales	order	0.87	Staphylococcaceae	family	0.86	Staphylococcus	genus	0.86
+96;reference=2830874;position=979..1053		Bacteria	domain	1.0	"Proteobacteria"	phylum	0.68	Deltaproteobacteria	class	0.44	Syntrophobacterales	order	0.38	Syntrophaceae	family	0.24	Desulfomonile	genus	0.24
+97;reference=729727;position=complement(1261..1335)	-	Bacteria	domain	1.0	"Proteobacteria"	phylum	0.92	Betaproteobacteria	class	0.76	Burkholderiales	order	0.76	Comamonadaceae	family	0.64	Verminephrobacter	genus	0.43
+98;reference=626138;position=complement(748..822)	-	Bacteria	domain	1.0	Firmicutes	phylum	0.98	Bacilli	class	0.94	Lactobacillales	order	0.56	Carnobacteriaceae	family	0.49	Dolosigranulum	genus	0.31
+99;reference=1096068;position=complement(690..764)	-	Bacteria	domain	1.0	"Proteobacteria"	phylum	0.99	Gammaproteobacteria	class	0.74	Pseudomonadales	order	0.66	Moraxellaceae	family	0.64	Moraxella	genus	0.61
+100;reference=818400;position=1201..1275		Bacteria	domain	1.0	"Proteobacteria"	phylum	0.91	Alphaproteobacteria	class	0.86	Rhizobiales	order	0.86	Rhizobiaceae	family	0.74	Ensifer	genus	0.72
