@@ -3,9 +3,10 @@ use warnings;
 use Getopt::Long;
 use Data::Dumper;
 
-my $rdpfile = "/home/laurentt/projects/qiime/ley/otus/rdp_assigned_taxonomy/qiime_leyOut_rep_set_tax_assignments.txt";
-my $otufile = "/home/laurentt/projects/qiime/ley/otus/ley-otuTable.txt";
-my $outbase = "/home/laurentt/projects/qiime/ley/otus/LeyqiimeTaxTable-";
+my $rdpfile = "/home/laurentt/projects/qiime/V6otus/rdp_assigned_taxonomy/qiime_V6Out_rep_set_tax_assignments.txt";
+
+my $otufile = "/home/laurentt/projects/qiime/V6otus/V6_otu_table.txt"; # otus/ley-otuTable.txt";
+my $outbase = "/home/laurentt/projects/qiime/V6otus/V6qiimeTaxTable-";
 my $om = {}; # otu map
 my $sm = {}; # sample hash
 my $tl = {}; # tax list
